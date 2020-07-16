@@ -10,7 +10,7 @@
     "enzyme": "^3.3.0",
     "redux-persist": "^4.0.0-alpha7",
     "enzyme-adapter-react-16": "^1.7.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "moment": "^2.22.1",
     "prop-types": "^15.6.1",
     "react": "next",
